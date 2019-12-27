@@ -2,3 +2,7 @@
   background-color: aqua;
   color: bisque;
 }
+.customWidth{
+  min-width: 100px;
+  height: 600px;
+}
